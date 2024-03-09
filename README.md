@@ -24,6 +24,9 @@ docker-compose up -d
 
 5. populate env variables in ```.env``` file
 
+## Production Build
+1. Create file ```.env.prod```
+2. Fill production environment variables
 
 ## Running the app
 
