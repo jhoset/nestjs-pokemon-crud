@@ -16,6 +16,15 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+4. Rebuild the database with seed thought API
+```
+/api/v2/seed
+```
+5. Clone __.env.template__ file and rename copty to __.env__
+
+5. populate env variables in ```.env``` file
+
+
 ## Running the app
 
 ```bash
